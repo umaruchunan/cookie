@@ -1,0 +1,36 @@
+# Header
+The Cookie Recipes
+- Home [Link]
+- Recipes [Link]
+- Contact [Link]
+
+# Articles
+(Almond cookie image)
+Almond Cookies
+These lovely, rustic gluten free cookies are perfect for dunking in tea or a cold glass of milk.
+
+(Butter cookie image)
+Butter Cookies
+Everyone loves a good biscuit to dunk in their tea, and you just can’t beat the homemade variety.
+
+(Chocolate chip cookie image)
+Chocolate Chip Cookies
+You can’t beat a good homemade cookie. These ones are soft, chewy, and really simple to make.
+
+# Sidebar
+About Us
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi incidunt, enim aspernatur fugit cum natus libero quam, ex omnis at commodi unde esse id assumenda ipsum, officia sint beatae in.
+
+Popular Recipes
+1. Almond Cookie
+2. Butter Cookie
+3. Chocolate Chip Cookie
+
+# Footer
+Copyright 2017
+- (Facebook icon)
+- (Twitter icon)
+- (LinkedIn icon)
+- (Instagram icon)
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
